@@ -1,0 +1,15 @@
+G:\C#LessonGb\Seminars\Seminar3\Ex002\bin\Debug\net7.0\Ex002.exe
+G:\C#LessonGb\Seminars\Seminar3\Ex002\bin\Debug\net7.0\Ex002.deps.json
+G:\C#LessonGb\Seminars\Seminar3\Ex002\bin\Debug\net7.0\Ex002.runtimeconfig.json
+G:\C#LessonGb\Seminars\Seminar3\Ex002\bin\Debug\net7.0\Ex002.dll
+G:\C#LessonGb\Seminars\Seminar3\Ex002\bin\Debug\net7.0\Ex002.pdb
+G:\C#LessonGb\Seminars\Seminar3\Ex002\obj\Debug\net7.0\Ex002.csproj.AssemblyReference.cache
+G:\C#LessonGb\Seminars\Seminar3\Ex002\obj\Debug\net7.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#LessonGb\Seminars\Seminar3\Ex002\obj\Debug\net7.0\Ex002.AssemblyInfoInputs.cache
+G:\C#LessonGb\Seminars\Seminar3\Ex002\obj\Debug\net7.0\Ex002.AssemblyInfo.cs
+G:\C#LessonGb\Seminars\Seminar3\Ex002\obj\Debug\net7.0\Ex002.csproj.CoreCompileInputs.cache
+G:\C#LessonGb\Seminars\Seminar3\Ex002\obj\Debug\net7.0\Ex002.dll
+G:\C#LessonGb\Seminars\Seminar3\Ex002\obj\Debug\net7.0\refint\Ex002.dll
+G:\C#LessonGb\Seminars\Seminar3\Ex002\obj\Debug\net7.0\Ex002.pdb
+G:\C#LessonGb\Seminars\Seminar3\Ex002\obj\Debug\net7.0\Ex002.genruntimeconfig.cache
+G:\C#LessonGb\Seminars\Seminar3\Ex002\obj\Debug\net7.0\ref\Ex002.dll
